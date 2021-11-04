@@ -138,7 +138,7 @@ const VaccinePage = () => {
                         <path
                           d="M-11.04 12H35.04M12 0.47998V23.52V0.47998Z"
                           stroke="#CF142B"
-                          strokewidth="4.608"
+                          strokeWidth="4.608"
                         ></path>
                       </g>
                     </svg>
