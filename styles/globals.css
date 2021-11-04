@@ -1,18 +1,10 @@
 body {
-  font-family: Lato, Arial, sans-serif;
-  color: #0b1f33;
-  background: #fafcff;
+  margin: 0;
+  padding: 0;
 }
 
-body {
-  display: block;
-  margin: 8px;
-}
-
-.vaccine-result {
-  max-width: 350px;
-  text-align: center;
-  padding-bottom: 40px;
-  margin-right: auto;
-  margin-left: auto;
+.cert embed {
+  dispay: block;
+  width: 100vw;
+  height: 100vh;
 }
