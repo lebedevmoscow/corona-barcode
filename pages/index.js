@@ -49,11 +49,6 @@ const VaccinePage = () => {
         />
         <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
         <meta name="apple-mobile-web-app-title" content="Госуслуги" />
-        <link
-          rel="stylesheet"
-          type="text/css"
-          href="https://gu-st.ru/covid-web-st/static-pages-assets/vaccine-cert/main.css"
-        />
       </Head>
       <div className="vaccine-result">
         <div className="flex-container ml-6 mr-6 justify-between align-items-center mt-52 mb-32">
